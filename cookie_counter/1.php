@@ -1,3 +1,7 @@
+<?php
+setcookie("count", 0)
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +10,6 @@
     <title>Document</title>
 </head>
 <body>
-
+    <a href="2.php">Ссылка</a>
 </body>
 </html>
